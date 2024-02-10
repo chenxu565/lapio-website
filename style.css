@@ -1,3 +1,32 @@
 p {
-    background-color: red;
+    color: orange;
 }
+
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: brown;
+}
+
+h3 {
+    color: purple;
+}
+
+a {
+    color: orange;
+}
+
+.special-h3 {
+    color: orange;
+}
+
+li {
+    color: orange;
+}
+
+.special-li {
+    color: red;
+}
+
